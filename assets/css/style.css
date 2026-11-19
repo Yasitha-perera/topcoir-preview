@@ -177,7 +177,7 @@ h1, h2, h3, h4 { font-family: var(--serif); color: var(--ink); font-weight: 500;
 .stat .lbl { font-size: .82rem; color: var(--muted); margin-top: .35rem; }
 
 .hero-media { position: relative; }
-.hero-media .coir { border-radius: var(--radius-lg); aspect-ratio: 4/3.4; }
+.hero-media .coir { border-radius: var(--radius-lg); aspect-ratio: 4/4.8; }
 .badge-float {
   position: absolute; background: var(--paper); border-radius: 12px;
   padding: .6rem .9rem; box-shadow: var(--shadow-md); font-size: .8rem;
